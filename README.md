@@ -1,4 +1,4 @@
-📊 NBFC Credit Risk & Portfolio Analytics
+🏦 NBFC Credit Risk & Portfolio Analytics
 
 An end-to-end NBFC Credit Risk, Loan Portfolio & Collection Analytics project built using Microsoft Excel, Python (Pandas) and Looker Studio.
 
