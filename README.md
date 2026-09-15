@@ -117,7 +117,7 @@ The first dashboard page provides a high-level view of:
 - Portfolio exposure by product
 - Application-to-disbursement overview
 
-"Executive Portfolio Overview" (dashboard/dashboard_overview.jpg)
+![Executive Portfolio Overview](./dashboard/dashboard_overview.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ The dashboard shows payment success rates of:
 
 High-risk customers represent ₹54.2 Cr of loan exposure.
 
-"Credit Risk & Payment Behaviour" (dashboard/credit_risk_analysis.jpg)
+![Credit Risk & Payment Behaviour](./dashboard/credit_risk_analysis.jpg)
 
 ---
 
@@ -165,7 +165,7 @@ Amount Due| ₹8.21 Cr
 Total Recovered| ₹6.95 Cr
 Outstanding Amount| ₹1.26 Cr
 
-"Recovery & Collection Analysis" (dashboard/recovery_collection_analysis.jpg)
+![Recovery & Collection Analysis](./dashboard/recovery_collection_analysis.jpg)
 
 ---
 
